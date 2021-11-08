@@ -1,0 +1,44 @@
+Exo à réaliser cet après midi :
+[12:35]
+Exo 1
+
+
+let notes = [12,5,3,19,17]
+
+Créer une fonction qui permet de calculer la moyenne.
+
+
+Exo 2
+
+
+let notes = [12,5,3,19,17]
+
+Créer une fonction qui récupère toutes les notes supérieur ou égal à 10
+
+
+
+Exo 3
+
+let notes = [12,5,3,19,17]
+
+Créer une fonction qui tri le tableau par ordre croissant.
+
+Exo 4
+
+Créer un objet représentant un élève.
+    - nom
+    - prénom
+    - age
+    - classe
+    - tableau des notes.
+
+
+Exo 5 
+
+Créer une fonction qui permet créer un élève selon l’exo 4.
+
+
+Exo 6 
+
+Créer un tableau qui contient l’ensemble des élèves (voir exo 5).
+Modifier la fonction de l’exo 5 pour que l’élève soit immédiatement ajouter au tableau des élèves.
