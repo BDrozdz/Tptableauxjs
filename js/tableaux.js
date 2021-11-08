@@ -6,7 +6,7 @@ average = Average(notes);
 alert(`La moyenne est de :  ${average}`);
 function Average (notes) {
     let sum = 0;
-    notes.forEach(element => { 
+    notes.forEach(element=>  { 
     /* console.log(element); Debug */   
     sum += element;    
 });
